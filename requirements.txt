@@ -2,9 +2,9 @@ streamlit
 langchain>=0.3,<1.0
 langchain-community>=0.3,<1.0
 langchain-openai>=0.3,<1.0
-langchain-pinecone
+langchain-pinecone>=0.2
 langchain-text-splitters>=0.3,<1.0
 python-dotenv
 openai>=1.0,<2.0
-pinecone
+pinecone>=5
 tiktoken
