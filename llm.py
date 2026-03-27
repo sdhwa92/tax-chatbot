@@ -1,5 +1,5 @@
 from dotenv import load_dotenv
-from langchain.runnables.history import RunnableWithMessageHistory
+from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_openai import OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from langchain_openai import ChatOpenAI
